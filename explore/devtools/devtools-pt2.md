@@ -1,0 +1,2 @@
+1. Since num1 and num2 are both string, result will also be a string variable. String addition doesn't function like normal number addition, for example, '1' + '2' will equal to '12'. 
+2. I would convert the num1 and num2 into int before adding them together. 
